@@ -1,0 +1,1 @@
+subprocessを用いて、bluetoothctl、discoverable onを実行する。
